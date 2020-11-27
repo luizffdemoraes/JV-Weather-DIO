@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="wheather" src=".img/jv_weather.png" width="100%">
+  <img alt="wheather" src="./img/jv_weather.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
